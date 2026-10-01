@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-labelledby="title">
+  <title id="title">PASSER WOOD flange mark</title>
+  <rect width="80" height="80" rx="8" fill="#14283A"/>
+  <circle cx="40" cy="40" r="27" fill="#B77A43" stroke="#D39A4A" stroke-width="3"/>
+  <circle cx="40" cy="40" r="10" fill="#14283A"/>
+  <g fill="#14283A">
+    <circle cx="40" cy="20" r="3.2"/><circle cx="57.3" cy="30" r="3.2"/>
+    <circle cx="57.3" cy="50" r="3.2"/><circle cx="40" cy="60" r="3.2"/>
+    <circle cx="22.7" cy="50" r="3.2"/><circle cx="22.7" cy="30" r="3.2"/>
+  </g>
+  <path d="M13 57c18 12 41 12 59-1" fill="none" stroke="#D39A4A" stroke-width="3" stroke-linecap="round"/>
+</svg>
